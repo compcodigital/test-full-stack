@@ -1,7 +1,3 @@
-/*
- * Copyright (c) PB Web Development 2016.
- */
-
 var elixir = require('laravel-elixir');
 
 /*
